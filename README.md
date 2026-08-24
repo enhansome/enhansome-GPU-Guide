@@ -662,7 +662,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,137 | 🐛 229 | 🌐 Rust | 📅 2026-08-22 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,138 | 🐛 229 | 🌐 Rust | 📅 2026-08-24 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -742,7 +742,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,260 | 🐛 836 | 🌐 Python | 📅 2026-08-22 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,260 | 🐛 837 | 🌐 Python | 📅 2026-08-22 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 [Apache Cassandra™](https://cassandra.apache.org/) is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Cassandra provides linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
 
@@ -762,7 +762,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Microsoft Project Bonsai](https://azure.microsoft.com/en-us/services/project-bonsai/) is a low-code AI platform that speeds AI-powered automation development and part of the Autonomous Systems suite from Microsoft. Bonsai is used to build AI components that can provide operator guidance or make independent decisions to optimize process variables, improve production efficiency, and reduce downtime.
 
-[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,925 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
+[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,926 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
 
 [BigDL](https://bigdl-project.github.io/) is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 
@@ -917,7 +917,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Minkowski Engine](https://nvidia.github.io/MinkowskiEngine) is an auto-differentiation library for sparse tensors. It supports all standard neural network layers such as convolution, pooling, unpooling, and broadcasting operations for sparse tensors.
 
-[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,291 | 🐛 643 | 🌐 C++ | 📅 2026-08-20 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
+[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,292 | 🐛 664 | 🌐 C++ | 📅 2026-08-20 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
 
 [CUB](https://github.com/NVIDIA/cub) ⚠️ Archived is a cooperative primitives for CUDA C++ kernel authors.
 
@@ -933,7 +933,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [cuDF](https://rapids.ai/) is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. cuDF provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,260 | 🐛 836 | 🌐 Python | 📅 2026-08-22 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,260 | 🐛 837 | 🌐 Python | 📅 2026-08-22 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 [ArrayFire](https://arrayfire.com/) is a general-purpose library that simplifies the process of developing software that targets parallel and massively-parallel architectures including CPUs, GPUs, and other hardware acceleration devices.
 
@@ -1111,7 +1111,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,560 | 🐛 1,543 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,559 | 🐛 1,543 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
 [Theano](https://github.com/Theano/Theano) ⭐ 9,998 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
@@ -1127,7 +1127,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Apache PredictionIO](https://predictionio.apache.org/) is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.
 
-[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,925 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
+[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,926 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
 
 [BigDL](https://bigdl-project.github.io/) is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 
@@ -1141,7 +1141,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,260 | 🐛 836 | 🌐 Python | 📅 2026-08-22 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,260 | 🐛 837 | 🌐 Python | 📅 2026-08-22 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # Deep Learning Development
 
@@ -1248,7 +1248,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Apache PredictionIO](https://predictionio.apache.org/) is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.
 
-[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,925 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
+[Cluster Manager for Apache Kafka(CMAK)](https://github.com/yahoo/CMAK) ⭐ 11,926 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 is a tool for managing [Apache Kafka](https://kafka.apache.org/) clusters.
 
 [BigDL](https://bigdl-project.github.io/) is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 
@@ -1298,7 +1298,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,560 | 🐛 1,543 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,559 | 🐛 1,543 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
 [Theano](https://github.com/Theano/Theano) ⭐ 9,998 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
@@ -1306,7 +1306,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,318 | 🐛 1,193 | 🌐 C++ | 📅 2026-08-24 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,317 | 🐛 1,194 | 🌐 C++ | 📅 2026-08-24 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
 
 [ROS/ROS2 bridge for CARLA(package)](https://github.com/carla-simulator/ros-bridge) ⭐ 643 | 🐛 185 | 🌐 Python | 📅 2026-08-16 is a bridge that enables two-way communication between ROS and CARLA. The information from the CARLA server is translated to ROS topics. In the same way, the messages sent between nodes in ROS get translated to commands to be applied in CARLA.
 
@@ -1563,11 +1563,11 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
 
-[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,329 | 🐛 339 | 🌐 Java | 📅 2026-08-23 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
+[LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,330 | 🐛 340 | 🌐 Java | 📅 2026-08-23 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
 
-[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,158 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
+[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,159 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
 
-[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,338 | 🐛 757 | 🌐 C# | 📅 2026-08-23 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
+[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,340 | 🐛 756 | 🌐 C# | 📅 2026-08-24 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
 
 [HGIG](https://www.hgig.org/) is a volunteer group of companies from the game and TV display industries that meet to specify and make available for the public guidelines to improve consumer gaming experiences in HDR.
 
@@ -1739,7 +1739,7 @@ SteamVR Home
 
 [Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,325 | 🐛 385 | 🌐 JavaScript | 📅 2026-08-14
 
-[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,628 | 🐛 776 | 🌐 C++ | 📅 2026-08-21
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,629 | 🐛 776 | 🌐 C++ | 📅 2026-08-21
 
 [Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
 
@@ -1773,7 +1773,7 @@ SteamVR Home
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,906 | 🐛 256 | 🌐 C++ | 📅 2026-08-23 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,907 | 🐛 256 | 🌐 C++ | 📅 2026-08-24 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -1789,7 +1789,7 @@ SteamVR Home
 
 [VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,923 | 🐛 345 | 🌐 C | 📅 2026-08-24 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 75,840 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-23 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 75,842 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-23 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
 [Ash](https://github.com/MaikKlein/ash) ⭐ 2,330 | 🐛 78 | 🌐 Rust | 📅 2026-08-12 is a very lightweight wrapper around Vulkan.
 
@@ -1858,7 +1858,7 @@ SteamVR Home
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,906 | 🐛 256 | 🌐 C++ | 📅 2026-08-23 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,907 | 🐛 256 | 🌐 C++ | 📅 2026-08-24 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,923 | 🐛 345 | 🌐 C | 📅 2026-08-24 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
@@ -2153,9 +2153,9 @@ SteamVR Home
 
 [NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
 
-[Universal Scene Description](https://github.com/PixarAnimationStudios/USD) ⭐ 7,454 | 🐛 1,009 | 🌐 C++ | 📅 2026-08-20 is an efficient, scalable system for authoring, reading, and streaming time-sampled scene description for interchange between graphics applications.
+[Universal Scene Description](https://github.com/PixarAnimationStudios/USD) ⭐ 7,455 | 🐛 1,010 | 🌐 C++ | 📅 2026-08-20 is an efficient, scalable system for authoring, reading, and streaming time-sampled scene description for interchange between graphics applications.
 
-[OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) ⭐ 1,961 | 🐛 204 | 🌐 C++ | 📅 2026-08-07 is an interchange format and API for editorial cut information. OTIO is not a container format for media, rather it contains information about the order and length of cuts and references to external media. OTIO includes both a file format and an API for manipulating that format. It also includes a plugin architecture for writing adapters to convert from/to existing editorial timeline formats. It also implements a dependency- less library for dealing strictly with time, opentime.
+[OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) ⭐ 1,962 | 🐛 204 | 🌐 C++ | 📅 2026-08-07 is an interchange format and API for editorial cut information. OTIO is not a container format for media, rather it contains information about the order and length of cuts and references to external media. OTIO includes both a file format and an API for manipulating that format. It also includes a plugin architecture for writing adapters to convert from/to existing editorial timeline formats. It also implements a dependency- less library for dealing strictly with time, opentime.
 
 [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) ⭐ 3,071 | 🐛 58 | 🌐 C++ | 📅 2026-08-19 is a set of open source libraries that implement high performance subdivision surface (subdiv) evaluation on massively parallel CPU and GPU architectures. This codepath is optimized for drawing deforming subdivs with static topology at interactive framerates. The resulting limit surface matches Pixar's Renderman to numerical precision.
 
@@ -2171,7 +2171,7 @@ SteamVR Home
 
 [GNU Image Manipulation Program(GIMP)](https://www.gimp.org/) is a cross-platform raster graphics editor based on the GNU Image Manipulation Program(GIMP) available for Linux, macOS, and Windows. A great free alternative for Photoshop.
 
-[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) ⭐ 17,591 | 🐛 46 | 🌐 Python | 📅 2026-08-15 is a simple Patch for [GIMP 2.10+](https://www.gimp.org/) to help all Adobe Photoshop Users feel at home.
+[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) ⭐ 17,599 | 🐛 46 | 🌐 Python | 📅 2026-08-15 is a simple Patch for [GIMP 2.10+](https://www.gimp.org/) to help all Adobe Photoshop Users feel at home.
 
 [Photopea](https://www.photopea.com/) is an advanced online photo editor supporting Adobe Photoshop(PSD), GIMP(XCF), Sketch App(Sketch), Adobe XD(XD) and CorelDRAW(CDR) formats.
 
@@ -2623,7 +2623,7 @@ Devices powered by Apple Silicon.
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,263 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,264 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -2673,13 +2673,13 @@ Devices powered by Apple Silicon.
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 205 | 🌐 C++ | 📅 2026-08-24
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 207 | 🌐 C++ | 📅 2026-08-24
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,389 | 🐛 1,183 | 🌐 CMake | 📅 2026-08-22 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,390 | 🐛 1,194 | 🌐 CMake | 📅 2026-08-24 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -2731,7 +2731,7 @@ Devices powered by Apple Silicon.
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,521 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,520 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
@@ -2809,7 +2809,7 @@ Devices powered by Apple Silicon.
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,447 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,446 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
@@ -2912,7 +2912,7 @@ Devices powered by Apple Silicon.
 
 [Rplugin](https://github.com/JetBrains/Rplugin) ⭐ 70 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-21 is R Language supported plugin for the IntelliJ IDE.
 
-[Plotly](https://plotly-r.com/) is an R package for creating interactive web graphics via the open source JavaScript graphing library [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,298 | 🐛 848 | 🌐 JavaScript | 📅 2026-08-22.
+[Plotly](https://plotly-r.com/) is an R package for creating interactive web graphics via the open source JavaScript graphing library [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,299 | 🐛 848 | 🌐 JavaScript | 📅 2026-08-22.
 
 [Metaflow](https://metaflow.org/) is a Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
 
@@ -2983,7 +2983,7 @@ Devices powered by Apple Silicon.
 
 [Profile (Stdlib)](https://docs.julialang.org/en/v1/manual/profile/) is a module provides tools to help developers improve the performance of their code. When used, it takes measurements on running code, and produces output that helps you understand how much time is spent on individual line's.
 
-[Revise.jl](https://github.com/timholy/Revise.jl) ⭐ 1,351 | 🐛 18 | 🌐 Julia | 📅 2026-08-24 allows you to modify code and use the changes without restarting Julia. With Revise, you can be in the middle of a session and then update packages, switch git branches, and/or edit the source code in the editor of your choice; any changes will typically be incorporated into the very next command you issue from the REPL. This can save you the overhead of restarting Julia, loading packages, and waiting for code to JIT-compile.
+[Revise.jl](https://github.com/timholy/Revise.jl) ⭐ 1,351 | 🐛 16 | 🌐 Julia | 📅 2026-08-24 allows you to modify code and use the changes without restarting Julia. With Revise, you can be in the middle of a session and then update packages, switch git branches, and/or edit the source code in the editor of your choice; any changes will typically be incorporated into the very next command you issue from the REPL. This can save you the overhead of restarting Julia, loading packages, and waiting for code to JIT-compile.
 
 [JuliaGPU](https://juliagpu.org/) is a Github organization created to unify the many packages for programming GPUs in Julia. With its high-level syntax and flexible compiler, Julia is well positioned to productively program hardware accelerators like GPUs without sacrificing performance.
 
