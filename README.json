@@ -1348,7 +1348,7 @@
             "open_issues": 220,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6215,
+            "stars": 6217,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -1431,7 +1431,7 @@
                 "open_issues": 1789,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11149,
+                "stars": 11152,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1456,8 +1456,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T01:17:09Z",
-                "open_issues": 803,
+                "last_commit": "2026-09-13T00:39:21Z",
+                "open_issues": 806,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5277,
@@ -1526,7 +1526,7 @@
                 "open_issues": 55,
                 "owner": "KhronosGroup",
                 "repo": "OpenCL-ICD-Loader",
-                "stars": 302,
+                "stars": 303,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -1738,10 +1738,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T06:20:12Z",
-                "open_issues": 727,
+                "open_issues": 744,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10418,
+                "stars": 10423,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1829,7 +1829,7 @@
                 "open_issues": 1789,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11149,
+                "stars": 11152,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1854,8 +1854,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T01:17:09Z",
-                "open_issues": 803,
+                "last_commit": "2026-09-13T00:39:21Z",
+                "open_issues": 806,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5277,
@@ -1885,7 +1885,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5001,
+                "stars": 5000,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1962,7 +1962,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3648,
+                "stars": 3646,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -2152,7 +2152,7 @@
                 "open_issues": 1789,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11149,
+                "stars": 11152,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -2177,8 +2177,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T01:17:09Z",
-                "open_issues": 803,
+                "last_commit": "2026-09-13T00:39:21Z",
+                "open_issues": 806,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5277,
@@ -2268,7 +2268,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3648,
+                "stars": 3646,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -2356,7 +2356,7 @@
                 "open_issues": 1198,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14391,
+                "stars": 14393,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2470,10 +2470,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T08:20:10Z",
-                "open_issues": 338,
+                "open_issues": 337,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25384,
+                "stars": 25389,
                 "topics": [
                   "2d",
                   "3d",
@@ -2511,7 +2511,7 @@
                 "open_issues": 1604,
                 "owner": "cocos2d",
                 "repo": "cocos2d-x",
-                "stars": 19179,
+                "stars": 19181,
                 "topics": [
                   "android",
                   "c-plus-plus",
@@ -2542,10 +2542,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T21:47:23Z",
-                "open_issues": 768,
+                "open_issues": 771,
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14411,
+                "stars": 14415,
                 "topics": [
                   "3d",
                   "c-sharp",
@@ -2587,7 +2587,7 @@
                 "open_issues": 1043,
                 "owner": "ValveSoftware",
                 "repo": "openvr",
-                "stars": 6651,
+                "stars": 6650,
                 "topics": [
                   "hardware",
                   "openvr-sdk",
@@ -2684,7 +2684,7 @@
                 "open_issues": 391,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Docs",
-                "stars": 3335,
+                "stars": 3336,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -2702,7 +2702,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-12T02:24:26Z",
-                "open_issues": 767,
+                "open_issues": 768,
                 "owner": "microsoft",
                 "repo": "DirectXShaderCompiler",
                 "stars": 3647,
@@ -2731,7 +2731,7 @@
                 "open_issues": 67,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Samples",
-                "stars": 5364,
+                "stars": 5366,
                 "topics": [
                   "best-practices",
                   "cpp",
@@ -2766,10 +2766,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-14T14:50:24Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "KhronosGroup",
                 "repo": "SPIRV-Reflect",
-                "stars": 870,
+                "stars": 871,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -2790,7 +2790,7 @@
                 "open_issues": 29,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Tools",
-                "stars": 488,
+                "stars": 489,
                 "topics": [
                   "vulkan"
                 ]
@@ -2813,7 +2813,7 @@
                 "open_issues": 29,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Hpp",
-                "stars": 3786,
+                "stars": 3787,
                 "topics": [
                   "cpp",
                   "vulkan"
@@ -2834,10 +2834,10 @@
                 "language": "C++",
                 "license": "Zlib",
                 "last_commit": "2026-09-10T14:18:28Z",
-                "open_issues": 257,
+                "open_issues": 259,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18060,
+                "stars": 18063,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -2939,10 +2939,10 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-12T12:04:02Z",
-                "open_issues": 346,
+                "open_issues": 350,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
-                "stars": 2948,
+                "stars": 2951,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -2960,10 +2960,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-10T16:32:48Z",
-                "open_issues": 1229,
+                "open_issues": 1230,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76167,
+                "stars": 76178,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -3025,7 +3025,7 @@
                 "open_issues": 331,
                 "owner": "gfx-rs",
                 "repo": "gfx",
-                "stars": 5396,
+                "stars": 5398,
                 "topics": [
                   "dx11",
                   "dx12",
@@ -3098,7 +3098,7 @@
                 "open_issues": 112,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6835,
+                "stars": 6833,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -3158,10 +3158,10 @@
                 "language": "C++",
                 "license": "Zlib",
                 "last_commit": "2026-09-10T14:18:28Z",
-                "open_issues": 257,
+                "open_issues": 259,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18060,
+                "stars": 18063,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -3188,10 +3188,10 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-12T12:04:02Z",
-                "open_issues": 346,
+                "open_issues": 350,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
-                "stars": 2948,
+                "stars": 2951,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -3298,10 +3298,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T19:20:29Z",
-                "open_issues": 1004,
+                "open_issues": 1005,
                 "owner": "PixarAnimationStudios",
                 "repo": "OpenUSD",
-                "stars": 7487,
+                "stars": 7488,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -3318,11 +3318,11 @@
                 "id": 66404312,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T05:57:58Z",
-                "open_issues": 214,
+                "last_commit": "2026-09-12T17:34:08Z",
+                "open_issues": 213,
                 "owner": "AcademySoftwareFoundation",
                 "repo": "OpenTimelineIO",
-                "stars": 1979,
+                "stars": 1980,
                 "topics": [
                   "animation",
                   "cut",
@@ -3378,7 +3378,7 @@
                 "open_issues": 42,
                 "owner": "Diolinux",
                 "repo": "PhotoGIMP",
-                "stars": 17886,
+                "stars": 17895,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -3420,7 +3420,7 @@
                 "open_issues": 129,
                 "owner": "guillaumechereau",
                 "repo": "goxel",
-                "stars": 3189,
+                "stars": 3190,
                 "topics": [
                   "voxel-editors",
                   "voxels"
@@ -3455,7 +3455,7 @@
             "open_issues": 216,
             "owner": "apple",
             "repo": "tensorflow_macos",
-            "stars": 3648,
+            "stars": 3646,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:51.461Z"
@@ -3484,7 +3484,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3648,
+                "stars": 3646,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -3621,7 +3621,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45314,
+                "stars": 45313,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -3699,8 +3699,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T11:24:37Z",
-                "open_issues": 204,
+                "last_commit": "2026-09-13T13:21:17Z",
+                "open_issues": 202,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659,
@@ -3736,10 +3736,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-09-11T22:56:10Z",
-                "open_issues": 1108,
+                "open_issues": 1118,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27458,
+                "stars": 27460,
                 "topics": [
                   "c",
                   "cmake",
@@ -3812,7 +3812,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5001,
+                "stars": 5000,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -3880,7 +3880,7 @@
                 "open_issues": 47,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29590,
+                "stars": 29594,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -3947,10 +3947,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-09-09T05:13:23Z",
-                "open_issues": 25,
+                "open_issues": 28,
                 "owner": "microsoft",
                 "repo": "pylance-release",
-                "stars": 2117,
+                "stars": 2119,
                 "topics": [
                   "code-analysis",
                   "language-server",
@@ -3973,10 +3973,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T22:13:48Z",
-                "open_issues": 331,
+                "open_issues": 333,
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15635,
+                "stars": 15638,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -4029,7 +4029,7 @@
                 "open_issues": 338,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38503,
+                "stars": 38505,
                 "topics": [
                   "api",
                   "api-client",
@@ -4122,7 +4122,7 @@
                 "open_issues": 290,
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8783,
+                "stars": 8787,
                 "topics": [
                   "bottle",
                   "python",
@@ -4149,7 +4149,7 @@
                 "open_issues": 148,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18638,
+                "stars": 18639,
                 "topics": [
                   "api-server",
                   "asgi",
@@ -4219,10 +4219,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-18T11:15:46Z",
-                "open_issues": 173,
+                "open_issues": 172,
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18772,
+                "stars": 18773,
                 "topics": [
                   "hadoop",
                   "luigi",
@@ -4249,7 +4249,7 @@
                 "open_issues": 6,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28146,
+                "stars": 28148,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -4282,7 +4282,7 @@
                 "open_issues": 240,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33893,
+                "stars": 33896,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4514,7 +4514,7 @@
                 "open_issues": 36,
                 "owner": "JuliaLang",
                 "repo": "IJulia.jl",
-                "stars": 2903,
+                "stars": 2904,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:51.461Z"
@@ -4603,7 +4603,7 @@
                 "language": "Julia",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T21:49:30Z",
-                "open_issues": 112,
+                "open_issues": 113,
                 "owner": "JuliaNLSolvers",
                 "repo": "Optim.jl",
                 "stars": 1205,
@@ -4816,7 +4816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:07:47.194Z",
+    "last_updated": "2026-09-13T13:52:46.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "Graphics Processing Unit (GPU) Architecture Guide",
