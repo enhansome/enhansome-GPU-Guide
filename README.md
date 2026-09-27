@@ -27,88 +27,88 @@ Unified Memory Architecture
 
 # Table of Contents
 
-1. [GPU Learning Resources](https://github.com/mikeroyal/GPU-Guide#gpu-learning-resources) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+1. [GPU Learning Resources](https://github.com/mikeroyal/GPU-Guide#gpu-learning-resources) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-2. [Electric charge, field, and potential](https://github.com/mikeroyal/GPU-Guide#electric-charge-field-and-potential) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+2. [Electric charge, field, and potential](https://github.com/mikeroyal/GPU-Guide#electric-charge-field-and-potential) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
    * Charge and electric force (Coulomb's law): Electric charge, field, and potential
    * Electric field: Electric charge, field, and potential
    * Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
 
-3. [Circuits](https://github.com/mikeroyal/GPU-Guide#Circuits) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+3. [Circuits](https://github.com/mikeroyal/GPU-Guide#Circuits) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
    * Ohm's law and circuits with resistors: Circuits
    * Circuits with capacitors: Circuits
 
-4. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/GPU-Guide#magnetic-forces-magnetic-fields-and-Faradays-law) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+4. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/GPU-Guide#magnetic-forces-magnetic-fields-and-Faradays-law) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
    * Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
    * Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
    * Electric motors: Magnetic forces, magnetic fields, and Faraday's law
    * Magnetic flux and Faraday's law
 
-5. [Electromagnetic waves and interference](https://github.com/mikeroyal/GPU-Guide#electromagnetic-waves-and-interference) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+5. [Electromagnetic waves and interference](https://github.com/mikeroyal/GPU-Guide#electromagnetic-waves-and-interference) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
    * Introduction to electromagnetic waves: Electromagnetic waves and interference
    * Interference of electromagnetic waves
 
-6. [Geometric optics](https://github.com/mikeroyal/GPU-Guide#Geometric-optics) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+6. [Geometric optics](https://github.com/mikeroyal/GPU-Guide#Geometric-optics) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
    * Reflection and refraction: Geometric optics
    * Mirrors: Geometric optics
    * Lenses
 
-7. [Linear Algebra](https://github.com/mikeroyal/GPU-Guide#Linear-Algebra) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+7. [Linear Algebra](https://github.com/mikeroyal/GPU-Guide#Linear-Algebra) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-8. [Virtualization](https://github.com/mikeroyal/GPU-Guide#virtualization) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+8. [Virtualization](https://github.com/mikeroyal/GPU-Guide#virtualization) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-9. [Parallel Computing](https://github.com/mikeroyal/GPU-Guide#Parallel-Computing) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+9. [Parallel Computing](https://github.com/mikeroyal/GPU-Guide#Parallel-Computing) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-10. [OpenCL Development](https://github.com/mikeroyal/GPU-Guide#opencl-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+10. [OpenCL Development](https://github.com/mikeroyal/GPU-Guide#opencl-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-11. [CUDA Development](https://github.com/mikeroyal/GPU-Guide#cuda-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+11. [CUDA Development](https://github.com/mikeroyal/GPU-Guide#cuda-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-12. [Algorithms](https://github.com/mikeroyal/GPU-Guide#algorithms) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+12. [Algorithms](https://github.com/mikeroyal/GPU-Guide#algorithms) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-13. [Machine Learning](https://github.com/mikeroyal/GPU-Guide#machine-learning) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+13. [Machine Learning](https://github.com/mikeroyal/GPU-Guide#machine-learning) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-14. [Deep Learning Development](https://github.com/mikeroyal/GPU-Guide#Deep-Learning-Development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+14. [Deep Learning Development](https://github.com/mikeroyal/GPU-Guide#Deep-Learning-Development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-15. [Computer Vision Development](https://github.com/mikeroyal/GPU-Guide#computer-vision-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+15. [Computer Vision Development](https://github.com/mikeroyal/GPU-Guide#computer-vision-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-16. [Gaming](https://github.com/mikeroyal/GPU-Guide#gaming) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+16. [Gaming](https://github.com/mikeroyal/GPU-Guide#gaming) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-17. [Game Development](https://github.com/mikeroyal/GPU-Guide#game-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+17. [Game Development](https://github.com/mikeroyal/GPU-Guide#game-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-18. [OpenGL Development](https://github.com/mikeroyal/GPU-Guide#opengl-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+18. [OpenGL Development](https://github.com/mikeroyal/GPU-Guide#opengl-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-19. [Vulkan Development](https://github.com/mikeroyal/GPU-Guide#vulkan-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+19. [Vulkan Development](https://github.com/mikeroyal/GPU-Guide#vulkan-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-20. [DirectX Development](https://github.com/mikeroyal/GPU-Guide#directx-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+20. [DirectX Development](https://github.com/mikeroyal/GPU-Guide#directx-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-21. [Professional Audio/Video Development](https://github.com/mikeroyal/GPU-Guide#professional-audiovideo-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+21. [Professional Audio/Video Development](https://github.com/mikeroyal/GPU-Guide#professional-audiovideo-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-22. [3D Graphics & Design](https://github.com/mikeroyal/GPU-Guide#3d-graphics-and-design) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+22. [3D Graphics & Design](https://github.com/mikeroyal/GPU-Guide#3d-graphics-and-design) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-23. [Apple Silicon](https://github.com/mikeroyal/GPU-Guide#Apple-Silicon) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+23. [Apple Silicon](https://github.com/mikeroyal/GPU-Guide#Apple-Silicon) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-24. [Core ML Development](https://github.com/mikeroyal/GPU-Guide#core-ml-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+24. [Core ML Development](https://github.com/mikeroyal/GPU-Guide#core-ml-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-25. [Metal Development](https://github.com/mikeroyal/GPU-Guide#Metal-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+25. [Metal Development](https://github.com/mikeroyal/GPU-Guide#Metal-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-26. [MATLAB Development](https://github.com/mikeroyal/GPU-Guide#matlab-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+26. [MATLAB Development](https://github.com/mikeroyal/GPU-Guide#matlab-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-27. [C/C++ Development](https://github.com/mikeroyal/GPU-Guide#cc-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+27. [C/C++ Development](https://github.com/mikeroyal/GPU-Guide#cc-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-28. [Python Development](https://github.com/mikeroyal/GPU-Guide#python-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+28. [Python Development](https://github.com/mikeroyal/GPU-Guide#python-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-29. [R Development](https://github.com/mikeroyal/GPU-Guide#r-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+29. [R Development](https://github.com/mikeroyal/GPU-Guide#r-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
-30. [Julia Development](https://github.com/mikeroyal/GPU-Guide#julia-development) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+30. [Julia Development](https://github.com/mikeroyal/GPU-Guide#julia-development) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 # Awesome GPU Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 [Graphics Processing Unit (GPU)](https://en.wikipedia.org/wiki/Graphics_processing_unit) is a circuit that's composed of hundreds of cores that can handle thousands of threads simultaneously. GPUS can rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. They are used in embedded systems, mobile phones, personal computers, professional workstations, and game consoles.
 
@@ -162,7 +162,7 @@ Unified Memory Architecture
 
 # Electric charge, field, and potential
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 ```
  - Charge and electric force (Coulomb's law): Electric charge, field, and potential
@@ -184,7 +184,7 @@ Unified Memory Architecture
 
 # Circuits
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 ```
 - Ohm's law and circuits with resistors: Circuits
@@ -207,7 +207,7 @@ Unified Memory Architecture
 
 # Magnetic forces, magnetic fields, and Faraday's law
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 ```
 - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
@@ -239,7 +239,7 @@ Unified Memory Architecture
 
 # Electromagnetic waves and interference
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 ```
 - Introduction to electromagnetic waves: Electromagnetic waves and interference
@@ -262,7 +262,7 @@ Unified Memory Architecture
 
 # Geometric optics
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 ```
 - Reflection and refraction: Geometric optics
@@ -286,7 +286,7 @@ Unified Memory Architecture
 
 # Linear Algebra
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/124998626-9a1b4680-e001-11eb-9a49-1e97604e8a10.png">
@@ -606,7 +606,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Virtualization
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
@@ -648,11 +648,11 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.
 
-[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,258 | 🐛 158 | 🌐 Python | 📅 2026-09-04 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
+[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,259 | 🐛 159 | 🌐 Python | 📅 2026-09-04 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
 
 [oVirt](https://www.ovirt.org) is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.
 
-[HyperKit](https://github.com/moby/hyperkit) ⭐ 3,714 | 🐛 53 | 🌐 C | 📅 2023-04-28 is a toolkit for embedding hypervisor capabilities in your application. It includes a complete hypervisor, based on [xhyve](https://github.com/mist64/xhyve) ⭐ 6,432 | 🐛 90 | 🌐 C | 📅 2022-01-29/[bhyve](https://bhyve.org/), which is optimized for lightweight virtual machines and container deployment. It is designed to be interfaced with higher-level components such as the [VPNKit](https://github.com/moby/vpnkit) ⭐ 1,207 | 🐛 82 | 🌐 OCaml | 📅 2026-06-10 and [DataKit](https://github.com/moby/datakit) ⚠️ Archived. HyperKit currently only supports macOS using the [Hypervisor.framework](https://developer.apple.com/library/mac/documentation/DriversKernelHardware/Reference/Hypervisor/index.html) making it a core component of Docker Desktop for Mac.
+[HyperKit](https://github.com/moby/hyperkit) ⭐ 3,714 | 🐛 53 | 🌐 C | 📅 2023-04-28 is a toolkit for embedding hypervisor capabilities in your application. It includes a complete hypervisor, based on [xhyve](https://github.com/mist64/xhyve) ⭐ 6,431 | 🐛 90 | 🌐 C | 📅 2022-01-29/[bhyve](https://bhyve.org/), which is optimized for lightweight virtual machines and container deployment. It is designed to be interfaced with higher-level components such as the [VPNKit](https://github.com/moby/vpnkit) ⭐ 1,207 | 🐛 82 | 🌐 OCaml | 📅 2026-06-10 and [DataKit](https://github.com/moby/datakit) ⚠️ Archived. HyperKit currently only supports macOS using the [Hypervisor.framework](https://developer.apple.com/library/mac/documentation/DriversKernelHardware/Reference/Hypervisor/index.html) making it a core component of Docker Desktop for Mac.
 
 [Intel® Graphics Virtualization Technology (Intel® GVT)](https://github.com/intel/gvt-linux) ⚠️ Archived is a full GPU virtualization solution with mediated pass-through, starting from 4th generation Intel Core (TM) processors with Intel processor graphics(Broadwell and newer). It can be used to virtualize the GPU for multiple guest virtual machines, effectively providing near-native graphics performance in the virtual machine and still letting your host use the virtualized GPU normally.
 
@@ -662,7 +662,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,262 | 🐛 229 | 🌐 Rust | 📅 2026-09-26 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,263 | 🐛 225 | 🌐 Rust | 📅 2026-09-26 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -682,7 +682,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Parallel Computing
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 ## Parallel Computing Learning Resources
 
@@ -736,9 +736,9 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) is an AWS-supported open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS. ParallelCluster uses a simple text file to model and provision all the resources needed for your HPC applications in an automated and secure manner.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,161 | 🐛 1,804 | 🌐 Python | 📅 2026-09-25 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,165 | 🐛 1,805 | 🌐 Python | 📅 2026-09-25 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,342 | 🐛 684 | 🌐 Python | 📅 2026-09-26 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,343 | 🐛 683 | 🌐 Python | 📅 2026-09-26 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
@@ -802,7 +802,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # OpenCL Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/130368400-7b6a82d3-ed03-4158-ade4-d7fc6cc9960a.png">
@@ -871,7 +871,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # CUDA Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306481-e17b8f00-ff27-11ea-832f-c85374acb3b1.png">
@@ -917,15 +917,15 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Minkowski Engine](https://nvidia.github.io/MinkowskiEngine) is an auto-differentiation library for sparse tensors. It supports all standard neural network layers such as convolution, pooling, unpooling, and broadcasting operations for sparse tensors.
 
-[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,496 | 🐛 762 | 🌐 C++ | 📅 2026-09-23 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
+[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,500 | 🐛 767 | 🌐 C++ | 📅 2026-09-23 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
 
 [CUB](https://github.com/NVIDIA/cub) ⚠️ Archived is a cooperative primitives for CUDA C++ kernel authors.
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,161 | 🐛 1,804 | 🌐 Python | 📅 2026-09-25 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,165 | 🐛 1,805 | 🌐 Python | 📅 2026-09-25 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,342 | 🐛 684 | 🌐 Python | 📅 2026-09-26 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,343 | 🐛 683 | 🌐 Python | 📅 2026-09-26 for high performance training and inference.
 
 [CuPy](https://cupy.dev/) is an implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it. It supports a subset of numpy.ndarray interface.
 
@@ -949,7 +949,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Algorithms
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 [Fuzzy logic](https://www.investopedia.com/terms/f/fuzzy-logic.asp) is a heuristic approach that allows for more advanced decision-tree processing and better integration with rules-based programming.
 
@@ -1034,7 +1034,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Machine Learning
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/134075212-b132056a-5980-4610-a141-dd0677b17b5f.png">
@@ -1111,7 +1111,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,552 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
 [Theano](https://github.com/Theano/Theano) ⭐ 10,002 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
@@ -1135,9 +1135,9 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,161 | 🐛 1,804 | 🌐 Python | 📅 2026-09-25 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,165 | 🐛 1,805 | 🌐 Python | 📅 2026-09-25 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,342 | 🐛 684 | 🌐 Python | 📅 2026-09-26 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,343 | 🐛 683 | 🌐 Python | 📅 2026-09-26 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
@@ -1145,7 +1145,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Deep Learning Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/133943699-6dcfcb40-ddf7-4501-86e0-41e8aee91fe2.png">
@@ -1298,7 +1298,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,552 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
 [Theano](https://github.com/Theano/Theano) ⭐ 10,002 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
@@ -1306,7 +1306,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,432 | 🐛 1,204 | 🌐 C++ | 📅 2026-09-25 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,436 | 🐛 1,204 | 🌐 C++ | 📅 2026-09-25 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
 
 [ROS/ROS2 bridge for CARLA(package)](https://github.com/carla-simulator/ros-bridge) ⭐ 646 | 🐛 186 | 🌐 Python | 📅 2026-08-16 is a bridge that enables two-way communication between ROS and CARLA. The information from the CARLA server is translated to ROS topics. In the same way, the messages sent between nodes in ROS get translated to commands to be applied in CARLA.
 
@@ -1338,7 +1338,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Computer Vision Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129494417-b0ee8192-ac41-4a6d-8e1d-4761ffc8bab1.png">
@@ -1421,7 +1421,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Gaming
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 ## Performance Benchmarks
 
@@ -1491,7 +1491,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 # Game Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
@@ -1565,9 +1565,9 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [LibGDX](https://github.com/libgdx/libgdx) ⭐ 25,411 | 🐛 339 | 🌐 Java | 📅 2026-09-24 is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
 
-[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,194 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
+[cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 19,195 | 🐛 1,604 | 🌐 C++ | 📅 2025-05-09 is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
 
-[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,453 | 🐛 762 | 🌐 C# | 📅 2026-09-25 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
+[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,458 | 🐛 762 | 🌐 C# | 📅 2026-09-27 is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
 
 [HGIG](https://www.hgig.org/) is a volunteer group of companies from the game and TV display industries that meet to specify and make available for the public guidelines to improve consumer gaming experiences in HDR.
 
@@ -1599,7 +1599,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 SteamVR Home
 </p>
 
-[OpenVR](https://github.com/ValveSoftware/openvr) ⭐ 6,667 | 🐛 1,041 | 🌐 C++ | 📅 2026-03-27 is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
+[OpenVR](https://github.com/ValveSoftware/openvr) ⭐ 6,666 | 🐛 1,041 | 🌐 C++ | 📅 2026-03-27 is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
 
 [OpenVR Benchmark on Steam](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset.
 
@@ -1641,7 +1641,7 @@ SteamVR Home
 
 # OpenGL Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/131386211-f507b5d4-a3c9-4c21-aadd-2aa5bde94d1e.png">
@@ -1724,7 +1724,7 @@ SteamVR Home
 
 # Vulkan Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622224-8c4cca51-9200-4d70-9d16-2610d704713a.png">
@@ -1739,7 +1739,7 @@ SteamVR Home
 
 [Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,342 | 🐛 389 | 🌐 JavaScript | 📅 2026-09-25
 
-[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,654 | 🐛 760 | 🌐 C++ | 📅 2026-09-25
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,654 | 🐛 761 | 🌐 C++ | 📅 2026-09-25
 
 [Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
 
@@ -1759,7 +1759,7 @@ SteamVR Home
 
 [Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 495 | 🐛 30 | 🌐 C++ | 📅 2026-09-25 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
 
-[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,795 | 🐛 29 | 🌐 C++ | 📅 2026-09-25 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
+[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,796 | 🐛 29 | 🌐 C++ | 📅 2026-09-25 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
 [Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/) is a  library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.
 
@@ -1773,7 +1773,7 @@ SteamVR Home
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,151 | 🐛 260 | 🌐 C++ | 📅 2026-09-25 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,157 | 🐛 263 | 🌐 C++ | 📅 2026-09-27 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -1787,19 +1787,19 @@ SteamVR Home
 
 [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 397 | 🐛 2 | 🌐 C# | 📅 2026-05-25 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,970 | 🐛 311 | 🌐 C | 📅 2026-09-25 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,970 | 🐛 312 | 🌐 C | 📅 2026-09-25 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 76,370 | 🐛 1,228 | 🌐 C++ | 📅 2026-09-25 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 76,384 | 🐛 1,228 | 🌐 C++ | 📅 2026-09-25 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
-[Ash](https://github.com/MaikKlein/ash) ⭐ 2,348 | 🐛 79 | 🌐 Rust | 📅 2026-09-25 is a very lightweight wrapper around Vulkan.
+[Ash](https://github.com/MaikKlein/ash) ⭐ 2,349 | 🐛 79 | 🌐 Rust | 📅 2026-09-25 is a very lightweight wrapper around Vulkan.
 
-[gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,397 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 is a low-level, cross-platform graphics and compute abstraction library in Rust.
+[gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,398 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 is a low-level, cross-platform graphics and compute abstraction library in Rust.
 
 [Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) ⭐ 128 | 🐛 1 | 🌐 Julia | 📅 2026-09-21 is a lightweight wrapper around the Vulkan graphics and compute library. It exposes abstractions over the underlying C interface, primarily geared towards developers looking for a more natural way to work with Vulkan with minimal overhead.
 
 # DirectX Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622295-1bd0e123-57bb-4460-baab-8dbc8818052a.png">
@@ -1842,7 +1842,7 @@ SteamVR Home
 
 [NVIDIA® Nsight™ Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.
 
-[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,022 | 🐛 30 | 🌐 C++ | 📅 2026-09-23 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
+[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,023 | 🐛 30 | 🌐 C++ | 📅 2026-09-23 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
 
 [RTXMU - RTX Memory Utility SDK](https://github.com/NVIDIAGameWorks/RTXMU) ⭐ 143 | 🐛 2 | 🌐 C++ | 📅 2025-10-30 is an SDK tool that batchs up all of the acceleration structure build inputs and pass them to RTXMU which in turn will perform all the suballocation memory requests and build details including compaction. Then post build info is abstracted away by the SDK in order to do compaction under the hood. RTXMU returns acceleration structure handle ids that are used to reference the underlying memory buffers. These handle ids are passed into RTXMU to create compaction copy workloads, deallocate unused build resources or remove all memory associated with an acceleration structure.
 
@@ -1858,15 +1858,15 @@ SteamVR Home
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,151 | 🐛 260 | 🌐 C++ | 📅 2026-09-25 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,157 | 🐛 263 | 🌐 C++ | 📅 2026-09-27 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,970 | 🐛 311 | 🌐 C | 📅 2026-09-25 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,970 | 🐛 312 | 🌐 C | 📅 2026-09-25 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
 [RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
 
 # Professional Audio/Video Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/100922475-caf73400-3492-11eb-88ac-d0976f3057d3.png">
@@ -1986,7 +1986,7 @@ SteamVR Home
 
 # 3D Graphics and Design
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97116104-27a74800-16b8-11eb-9556-bdb90ba45ce7.png">
@@ -2137,9 +2137,9 @@ SteamVR Home
 
 [openXR](https://www.khronos.org/OpenXR/) is a free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR) collectively known as XR—platforms and devices.
 
-[GPUImage framework](https://github.com/BradLarson/GPUImage) ⭐ 20,291 | 🐛 1,000 | 🌐 Objective-C | 📅 2024-02-16 is a BSD-licensed iOS library that lets you apply GPU-accelerated filters and other effects to images, live camera video, and movies. In comparison to Core Image (part of iOS 5.0), GPUImage allows you to write your own custom filters, supports deployment to iOS 4.0, and has a simpler interface. However, it currently lacks some of the more advanced features of Core Image, such as facial detection.
+[GPUImage framework](https://github.com/BradLarson/GPUImage) ⭐ 20,290 | 🐛 1,000 | 🌐 Objective-C | 📅 2024-02-16 is a BSD-licensed iOS library that lets you apply GPU-accelerated filters and other effects to images, live camera video, and movies. In comparison to Core Image (part of iOS 5.0), GPUImage allows you to write your own custom filters, supports deployment to iOS 4.0, and has a simpler interface. However, it currently lacks some of the more advanced features of Core Image, such as facial detection.
 
-[GPUImage3](https://github.com/BradLarson/GPUImage3) ⭐ 2,876 | 🐛 75 | 🌐 Swift | 📅 2024-07-25 is the third generation of the [GPUImage framework](https://github.com/BradLarson/GPUImage) ⭐ 20,291 | 🐛 1,000 | 🌐 Objective-C | 📅 2024-02-16, an open source project for performing GPU-accelerated image and video processing on Mac and iOS. The original GPUImage framework was written in Objective-C and targeted Mac and iOS, the second iteration rewritten in Swift using OpenGL to target Mac, iOS, and Linux, and now this third generation is redesigned to use Metal in place of OpenGL.
+[GPUImage3](https://github.com/BradLarson/GPUImage3) ⭐ 2,876 | 🐛 75 | 🌐 Swift | 📅 2024-07-25 is the third generation of the [GPUImage framework](https://github.com/BradLarson/GPUImage) ⭐ 20,290 | 🐛 1,000 | 🌐 Objective-C | 📅 2024-02-16, an open source project for performing GPU-accelerated image and video processing on Mac and iOS. The original GPUImage framework was written in Objective-C and targeted Mac and iOS, the second iteration rewritten in Swift using OpenGL to target Mac, iOS, and Linux, and now this third generation is redesigned to use Metal in place of OpenGL.
 
 [EGL](https://www.khronos.org/egl/) is an interface between Khronos rendering APIs such as OpenGL or OpenVG and the underlying native platform window system.
 
@@ -2153,9 +2153,9 @@ SteamVR Home
 
 [NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
 
-[Universal Scene Description](https://github.com/PixarAnimationStudios/USD) ⭐ 7,506 | 🐛 1,003 | 🌐 C++ | 📅 2026-09-26 is an efficient, scalable system for authoring, reading, and streaming time-sampled scene description for interchange between graphics applications.
+[Universal Scene Description](https://github.com/PixarAnimationStudios/USD) ⭐ 7,507 | 🐛 1,003 | 🌐 C++ | 📅 2026-09-26 is an efficient, scalable system for authoring, reading, and streaming time-sampled scene description for interchange between graphics applications.
 
-[OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) ⭐ 1,990 | 🐛 214 | 🌐 C++ | 📅 2026-09-22 is an interchange format and API for editorial cut information. OTIO is not a container format for media, rather it contains information about the order and length of cuts and references to external media. OTIO includes both a file format and an API for manipulating that format. It also includes a plugin architecture for writing adapters to convert from/to existing editorial timeline formats. It also implements a dependency- less library for dealing strictly with time, opentime.
+[OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) ⭐ 1,991 | 🐛 213 | 🌐 C++ | 📅 2026-09-26 is an interchange format and API for editorial cut information. OTIO is not a container format for media, rather it contains information about the order and length of cuts and references to external media. OTIO includes both a file format and an API for manipulating that format. It also includes a plugin architecture for writing adapters to convert from/to existing editorial timeline formats. It also implements a dependency- less library for dealing strictly with time, opentime.
 
 [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) ⭐ 3,074 | 🐛 58 | 🌐 C++ | 📅 2026-09-26 is a set of open source libraries that implement high performance subdivision surface (subdiv) evaluation on massively parallel CPU and GPU architectures. This codepath is optimized for drawing deforming subdivs with static topology at interactive framerates. The resulting limit surface matches Pixar's Renderman to numerical precision.
 
@@ -2171,7 +2171,7 @@ SteamVR Home
 
 [GNU Image Manipulation Program(GIMP)](https://www.gimp.org/) is a cross-platform raster graphics editor based on the GNU Image Manipulation Program(GIMP) available for Linux, macOS, and Windows. A great free alternative for Photoshop.
 
-[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) ⭐ 18,133 | 🐛 42 | 🌐 Python | 📅 2026-09-05 is a simple Patch for [GIMP 2.10+](https://www.gimp.org/) to help all Adobe Photoshop Users feel at home.
+[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) ⭐ 18,146 | 🐛 40 | 🌐 Python | 📅 2026-09-27 is a simple Patch for [GIMP 2.10+](https://www.gimp.org/) to help all Adobe Photoshop Users feel at home.
 
 [Photopea](https://www.photopea.com/) is an advanced online photo editor supporting Adobe Photoshop(PSD), GIMP(XCF), Sketch App(Sketch), Adobe XD(XD) and CorelDRAW(CDR) formats.
 
@@ -2185,13 +2185,13 @@ SteamVR Home
 
 [Dust3D](https://dust3d.org/) is a cross-platform open-source modeling software. It helps you create a 3D watertight model in seconds. Use it to speed up your character modeling in game making, 3D printing, and so on.
 
-[Goxel](https://github.com/guillaumechereau/goxel) ⭐ 3,197 | 🐛 130 | 🌐 C++ | 📅 2026-07-26 is a free and Open Source 3D Voxel Editor.
+[Goxel](https://github.com/guillaumechereau/goxel) ⭐ 3,198 | 🐛 130 | 🌐 C++ | 📅 2026-07-26 is a free and Open Source 3D Voxel Editor.
 
 [Sketchfab](https://sketchfab.com/tags/open-source) gives you open-source 3D models ready to view, buy, and download for free.
 
 # Apple Silicon
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/138614033-5a32eb70-31f4-4bd0-8c46-3ede505ccca8.png">
@@ -2333,7 +2333,7 @@ Devices powered by Apple Silicon.
 
 # Core ML Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/132140794-0d4bf654-0884-4068-b5bb-eaee36c36797.png">
@@ -2408,7 +2408,7 @@ Devices powered by Apple Silicon.
 
 # Metal Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622324-243aca6c-1feb-4b16-abef-70ad8b97f488.png">
@@ -2477,7 +2477,7 @@ Devices powered by Apple Silicon.
 
 # MATLAB Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306473-de809e80-ff27-11ea-924b-0a6947ae38bc.png">
@@ -2534,7 +2534,7 @@ Devices powered by Apple Silicon.
 
 [MATLAB Parallel Server™](https://www.mathworks.com/products/matlab-parallel-server.html) is a tool that lets you scale MATLAB® programs and Simulink® simulations to clusters and clouds. You can prototype your programs and simulations on the desktop and then run them on clusters and clouds without recoding. MATLAB Parallel Server supports batch jobs, interactive parallel computations, and distributed computations with large matrices.
 
-[MATLAB Schemer](https://github.com/scottclowe/matlab-schemer) ⭐ 1,259 | 🐛 19 | 🌐 MATLAB | 📅 2023-12-13 is a MATLAB package makes it easy to change the color scheme (theme) of the MATLAB display and GUI.
+[MATLAB Schemer](https://github.com/scottclowe/matlab-schemer) ⭐ 1,258 | 🐛 19 | 🌐 MATLAB | 📅 2023-12-13 is a MATLAB package makes it easy to change the color scheme (theme) of the MATLAB display and GUI.
 
 [LRSLibrary](https://github.com/andrewssobral/lrslibrary) ⭐ 887 | 🐛 3 | 🌐 MATLAB | 📅 2025-11-22 is a Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos. The library was designed for moving object detection in videos, but it can be also used for other computer vision and machine learning problems.
 
@@ -2588,7 +2588,7 @@ Devices powered by Apple Silicon.
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -2623,7 +2623,7 @@ Devices powered by Apple Silicon.
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,333 | 🐛 248 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,337 | 🐛 248 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -2673,13 +2673,13 @@ Devices powered by Apple Silicon.
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 203 | 🌐 C++ | 📅 2026-09-26
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 203 | 🌐 C++ | 📅 2026-09-27
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,483 | 🐛 1,091 | 🌐 CMake | 📅 2026-09-26 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,499 | 🐛 1,088 | 🌐 CMake | 📅 2026-09-27 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -2737,7 +2737,7 @@ Devices powered by Apple Silicon.
 
 # Python Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133273-ce490380-f68b-11ea-81d0-7f6a3debe6c0.png">
@@ -2795,9 +2795,9 @@ Devices powered by Apple Silicon.
 
 [Python Tools for Visual Studio(PTVS)](https://microsoft.github.io/PTVS/) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.
 
-[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,123 | 🐛 23 | 🌐 Python | 📅 2026-09-25 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
+[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,123 | 🐛 24 | 🌐 Python | 📅 2026-09-25 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
 
-[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,659 | 🐛 324 | 🌐 Python | 📅 2026-09-25 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,661 | 🐛 325 | 🌐 Python | 📅 2026-09-25 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 [Django](https://www.djangoproject.com/) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
@@ -2809,21 +2809,21 @@ Devices powered by Apple Silicon.
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,586 | 🐛 337 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,591 | 🐛 341 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
 [Sentry](https://sentry.io/) is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
 
-[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,029 | 🐛 12 | 🌐 Python | 📅 2026-09-25 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
+[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,027 | 🐛 12 | 🌐 Python | 📅 2026-09-25 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
 
 [Python Fire](https://github.com/google/python-fire) ⭐ 28,226 | 🐛 198 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
-[Bottle](https://github.com/bottlepy/bottle) ⭐ 8,790 | 🐛 290 | 🌐 Python | 📅 2026-09-18 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
+[Bottle](https://github.com/bottlepy/bottle) ⭐ 8,792 | 🐛 290 | 🌐 Python | 📅 2026-09-18 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
 
 [CherryPy](https://cherrypy.org) is a minimalist Python object-oriented HTTP web framework.
 
-[Sanic](https://github.com/huge-success/sanic) ⭐ 18,635 | 🐛 150 | 🌐 Python | 📅 2026-07-29 is a Python 3.6+ web server and web framework that's written to go fast.
+[Sanic](https://github.com/huge-success/sanic) ⭐ 18,634 | 🐛 150 | 🌐 Python | 📅 2026-07-29 is a Python 3.6+ web server and web framework that's written to go fast.
 
 [Pyramid](https://trypyramid.com) is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.
 
@@ -2837,9 +2837,9 @@ Devices powered by Apple Silicon.
 
 [Luigi](https://github.com/spotify/luigi) ⭐ 18,779 | 🐛 178 | 🌐 Python | 📅 2026-07-18 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
-[Locust](https://github.com/locustio/locust) ⭐ 28,185 | 🐛 2 | 🌐 Python | 📅 2026-09-26 is an easy to use, scriptable and scalable performance testing tool.
+[Locust](https://github.com/locustio/locust) ⭐ 28,184 | 🐛 2 | 🌐 Python | 📅 2026-09-26 is an easy to use, scriptable and scalable performance testing tool.
 
-[spaCy](https://github.com/explosion/spaCy) ⭐ 33,923 | 🐛 246 | 🌐 Python | 📅 2026-08-24 is a library for advanced Natural Language Processing in Python and Cython.
+[spaCy](https://github.com/explosion/spaCy) ⭐ 33,924 | 🐛 246 | 🌐 Python | 📅 2026-08-24 is a library for advanced Natural Language Processing in Python and Cython.
 
 [NumPy](https://www.numpy.org/) is the fundamental package needed for scientific computing with Python.
 
@@ -2859,7 +2859,7 @@ Devices powered by Apple Silicon.
 
 # R Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126080648-b515b7c0-e1bd-481b-92d2-c9cdd98ac30c.png">
@@ -2912,7 +2912,7 @@ Devices powered by Apple Silicon.
 
 [Rplugin](https://github.com/JetBrains/Rplugin) ⭐ 70 | 🐛 2 | 🌐 Kotlin | 📅 2026-09-25 is R Language supported plugin for the IntelliJ IDE.
 
-[Plotly](https://plotly-r.com/) is an R package for creating interactive web graphics via the open source JavaScript graphing library [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,346 | 🐛 796 | 🌐 JavaScript | 📅 2026-09-25.
+[Plotly](https://plotly-r.com/) is an R package for creating interactive web graphics via the open source JavaScript graphing library [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,347 | 🐛 794 | 🌐 JavaScript | 📅 2026-09-27.
 
 [Metaflow](https://metaflow.org/) is a Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
 
@@ -2940,7 +2940,7 @@ Devices powered by Apple Silicon.
 
 # Julia Development
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94961900-6e839280-04aa-11eb-84c6-2fb3f83e2b90.png">
@@ -3025,14 +3025,14 @@ Devices powered by Apple Silicon.
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/GPU-Guide/pulls) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/GPU-Guide/pulls) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01.
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 331 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
+[Back to the Top](https://github.com/mikeroyal/GPU-Guide#table-of-contents) ⭐ 332 | 🐛 0 | 🌐 Shell | 📅 2022-02-01
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
